@@ -1,0 +1,5 @@
+c:\users\danie\onedrive\документи\visual studio 2017\Projects\CSharpIntroLab\RectangleArea\bin\Debug\RectangleArea.exe.config
+c:\users\danie\onedrive\документи\visual studio 2017\Projects\CSharpIntroLab\RectangleArea\bin\Debug\RectangleArea.exe
+c:\users\danie\onedrive\документи\visual studio 2017\Projects\CSharpIntroLab\RectangleArea\bin\Debug\RectangleArea.pdb
+c:\users\danie\onedrive\документи\visual studio 2017\Projects\CSharpIntroLab\RectangleArea\obj\Debug\RectangleArea.exe
+c:\users\danie\onedrive\документи\visual studio 2017\Projects\CSharpIntroLab\RectangleArea\obj\Debug\RectangleArea.pdb

@@ -1,0 +1,5 @@
+c:\users\danie\onedrive\документи\visual studio 2017\Projects\CSharpIntroLab\MilesToKilometers\bin\Debug\MilesToKilometers.exe.config
+c:\users\danie\onedrive\документи\visual studio 2017\Projects\CSharpIntroLab\MilesToKilometers\bin\Debug\MilesToKilometers.exe
+c:\users\danie\onedrive\документи\visual studio 2017\Projects\CSharpIntroLab\MilesToKilometers\bin\Debug\MilesToKilometers.pdb
+c:\users\danie\onedrive\документи\visual studio 2017\Projects\CSharpIntroLab\MilesToKilometers\obj\Debug\MilesToKilometers.exe
+c:\users\danie\onedrive\документи\visual studio 2017\Projects\CSharpIntroLab\MilesToKilometers\obj\Debug\MilesToKilometers.pdb

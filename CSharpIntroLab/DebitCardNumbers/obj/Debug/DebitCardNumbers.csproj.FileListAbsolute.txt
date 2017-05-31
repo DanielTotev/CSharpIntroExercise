@@ -1,0 +1,6 @@
+c:\users\danie\onedrive\документи\visual studio 2017\Projects\CSharpIntroLab\DebitCardNumbers\bin\Debug\DebitCardNumbers.exe.config
+c:\users\danie\onedrive\документи\visual studio 2017\Projects\CSharpIntroLab\DebitCardNumbers\bin\Debug\DebitCardNumbers.exe
+c:\users\danie\onedrive\документи\visual studio 2017\Projects\CSharpIntroLab\DebitCardNumbers\bin\Debug\DebitCardNumbers.pdb
+c:\users\danie\onedrive\документи\visual studio 2017\Projects\CSharpIntroLab\DebitCardNumbers\obj\Debug\DebitCardNumbers.csprojResolveAssemblyReference.cache
+c:\users\danie\onedrive\документи\visual studio 2017\Projects\CSharpIntroLab\DebitCardNumbers\obj\Debug\DebitCardNumbers.exe
+c:\users\danie\onedrive\документи\visual studio 2017\Projects\CSharpIntroLab\DebitCardNumbers\obj\Debug\DebitCardNumbers.pdb
